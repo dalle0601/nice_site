@@ -1,0 +1,19 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+    height: 40px;
+    width: 100%;
+}
+
+.left_btn, .right_btn{
+    display: flex;
+}
+
+.Nike_btn, .join_btn, .jordan_btn, .converse_btn,
+.login_btn, .cs_btn, .collect_btn, .country_btn{
+    border: 1px solid red;
+    height: 40px;
+    width: 90px;
+}
+

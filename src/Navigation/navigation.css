@@ -1,0 +1,29 @@
+.Navigation {
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid black;
+    height: 50px;
+    width: 100%;
+}
+
+.left_btn, .right_btn, .center_btn{
+    display: flex;
+}
+
+.new_btn, .men_btn, .women_btn,
+.kids_btn{
+    border: 1px solid red;
+    height: 50px;
+    width: 120px;
+}
+
+.logo_btn, .search_div{
+    border: 1px solid red;
+    height: 50px;
+    width: 250px;
+}
+.search_input{
+    height: 30px;
+    width: 210px;
+}
+
