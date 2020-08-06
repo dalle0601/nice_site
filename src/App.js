@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Navigation />
+      <Navigation first="NEW RELEASES" second="MEN" third="WOMEN" four="KIDS" />
     </div>
   );
 }
